@@ -21,8 +21,8 @@ type FtpUtils struct {
 
 func (fu *FtpUtils) Construct() {
 	fu.port = "21"
-	fu.username = "tyz"
-	fu.password = "tyz"
+	fu.username = "lsw"
+	fu.password = "lsw"
 }
 
 // TODO:
